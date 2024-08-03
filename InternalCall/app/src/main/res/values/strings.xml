@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">InternalCall</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">MYfDNByYqSMvGv7FQO3b9nwdpiT7Dxn4wZ31CWkM</string>
+    <string name="back4app_client_key">AzCSjoueObInrYOELG14IuG5Y9urvU1O6MD5VpZZ</string>
 </resources>
